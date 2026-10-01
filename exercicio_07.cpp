@@ -15,10 +15,7 @@ struct Pessoa {
     Data nascimento;
 };
 
-// GERADOR PROVISORIO: a funcao mencionada no enunciado nao foi enviada.
-// Antes de entregar, substitua este gerador pela funcao fornecida na lista
-// e ajuste a chamada no main, se o nome ou os parametros forem diferentes.
-// Nesta demonstracao, os anos sorteados vao de 1950 a 2025.
+
 Data gerarDataNascimento() {
     Data data;
 
